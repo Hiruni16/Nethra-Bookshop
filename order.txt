@@ -1,0 +1,7 @@
+Customer: Thilini
+Added Item Quantities:
+Title: A Street Cat Named Bob	Author: James Bowen	Price: Rs.500	Quantity: 4
+Title: Sherlock Holmes	Author: Conan Doyle	Price: Rs.1500	Quantity: 6
+Total Price before Discount: Rs.11000
+Discount Percentage: 15%
+Discounted Price: Rs.9350
